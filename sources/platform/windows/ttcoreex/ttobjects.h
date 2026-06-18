@@ -4,7 +4,7 @@
 #include <string>
 #include <map>
 #include <list>
-#include "../recore/pcre.h"
+#include <pcre.h>   /* recore/ PCRE; resolved via target include dirs */
 
 class TIMER 
 {

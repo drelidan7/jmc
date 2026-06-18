@@ -21,7 +21,7 @@
 #include <mmsystem.h>
 //vls-end//
 
-#include "../recore/pcre.h"
+#include <pcre.h>   /* recore/ PCRE; resolved via target include dirs */
 #include <string>
 #include <vector>
 #include <map>

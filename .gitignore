@@ -17,3 +17,7 @@
 /sources/settings/Default.opt
 /sources/tabwords.txt
 /sources/jmc.ini
+
+# CMake build trees
+/build/
+CMakeUserPresets.json
